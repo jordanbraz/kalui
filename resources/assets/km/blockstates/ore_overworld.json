@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=ruby": { "model": "km:ore_overworld_ruby" },
+        "variant=sapphire": { "model": "km:ore_overworld_sapphire" }
+    }
+}
