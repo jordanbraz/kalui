@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "OO",
+        "OO"        
+    ],
+    
+    "key":
+    {
+        "O":
+        {
+            "item":"km:ruby"
+        }
+    },
+    
+    "result":
+    {
+        "item": "km:ruby_block",
+        "count": 4
+    }
+}

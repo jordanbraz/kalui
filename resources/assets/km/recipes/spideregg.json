@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "IDD",
+        "DRD",
+        "DDI"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "km:ruby"
+        },
+        
+        "I":
+        {
+            "item": "minecraft:sugar_cane"
+        },
+        
+        "D":
+        {
+            "item": "minecraft:string"
+        }
+    },
+    
+    "result":
+    {
+        "item": "km:ruby_block",
+        "count": 3
+    }
+}
